@@ -1,0 +1,7 @@
+openai>=1.0.0
+fastapi
+uvicorn
+sqlalchemy>=2.0
+psycopg2-binary
+python-dotenv
+pydantic
